@@ -1,0 +1,22 @@
+ul {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin-top: 40px;
+ }
+
+ a {
+    transition: all 0.3s;
+    text-transform: uppercase;
+    font-size: 30px;
+ }
+
+ a:hover {
+    color:#ed1222;
+ }
+
+ img {
+    height: 80px;
+    width: auto;
+    cursor: pointer;
+ }

@@ -1,0 +1,284 @@
+{
+  "films": [
+    {
+      "title": "Capitán América: El primer vengador",
+      "premiere": "2011",
+      "type": "pelicula",
+      "photo": "https://www.mubis.es/media/users/7286/102116/mi-portada-para-capitan-america-el-primer-vengador-original.jpg",
+      "score": "6.5",
+      "id": "1"
+    },
+    {
+      "title": "Capitana Marvel",
+      "premiere": "2010",
+      "type": "pelicula",
+      "photo": "https://reportajes.lavanguardia.com/stamp/wp-content/uploads/sites/19/2019/03/portada-ok.jpg",
+      "score": "9",
+      "id": "2"
+    },
+    {
+      "title": "Iron Man",
+      "premiere": "2008",
+      "type": "pelicula",
+      "photo": "https://i.pinimg.com/originals/05/fa/4a/05fa4a352afd570bc14d3be2440be92f.jpg",
+      "score": "8.3",
+      "id": "3"
+    },
+    {
+      "title": "Iron Man 2",
+      "premiere": "2010",
+      "type": "pelicula",
+      "photo": "https://es.web.img2.acsta.net/medias/nmedia/18/77/46/75/20134299.jpg",
+      "score": "8",
+      "id": "4"
+    },
+    {
+      "title": "El increíble Hulk",
+      "premiere": "2008",
+      "type": "pelicula",
+      "photo": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/6/w1280/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg",
+      "score": "4",
+      "id": "5"
+    },
+    {
+      "title": "Thor",
+      "premiere": "2011",
+      "type": "pelicula",
+      "photo": "https://i.pinimg.com/474x/5b/da/c7/5bdac7e55bbe77d5de08118c4e5dd059.jpg",
+      "score": "5.5",
+      "id": "6"
+    },
+    {
+      "title": "Los vengadores",
+      "premiere": "2012",
+      "type": "pelicula",
+      "photo": "https://i.pinimg.com/550x/51/e4/9d/51e49da21bc15e3d4ad9e456c5ef5039.jpg",
+      "score": "8.5",
+      "id": "7"
+    },
+    {
+      "title": "Thor: El mundo oscuro",
+      "premiere": "2013",
+      "type": "pelicula",
+      "photo": "https://www.mubis.es/media/articles/5659/54708/nuevos-poster-de-thor-el-mundo-oscuro-original.jpg",
+      "score": "6",
+      "id": "8"
+    },
+    {
+      "title": "Iron Man 3",
+      "premiere": "2013",
+      "type": "pelicula",
+      "photo": "https://i0.wp.com/www.lacasadeel.net/wp-content/uploads/2013/04/iron_man_3.jpg?resize=560%2C840",
+      "score": "7",
+      "id": "9"
+    },
+    {
+      "title": "Capitán América: El Soldado de Invierno",
+      "premiere": "2014",
+      "type": "pelicula",
+      "photo": "https://es.web.img3.acsta.net/pictures/14/01/31/16/12/220933.jpg",
+      "score": "6.2",
+      "id": "10"
+    },
+    {
+      "title": "Guardianes de la Galaxia",
+      "premiere": "2014",
+      "type": "pelicula",
+      "photo": "https://es.web.img3.acsta.net/pictures/14/06/17/14/04/353959.jpg",
+      "score": "8.7",
+      "id": "11"
+    },
+    {
+      "title": "Guardianes de la Galaxia Vol. 2",
+      "premiere": "2017",
+      "type": "pelicula",
+      "photo": "https://es.web.img3.acsta.net/pictures/17/03/09/14/11/154943.jpg",
+      "score": "8.5",
+      "id": "12"
+    },
+    {
+      "title": "Vengadores: La era de Ultrón",
+      "premiere": "2015",
+      "type": "pelicula",
+      "photo": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/178355674600a156eb0aa8bc436714aeefbdedd53b2312b6003d3277f47be6e4._RI_V_TTW_.jpg",
+      "score": "7.3",
+      "id": "13"
+    },
+    {
+      "title": "Ant-Man",
+      "premiere": "2015",
+      "type": "pelicula",
+      "photo": "https://i.blogs.es/6803cd/ant-man-poster-imax-nuevo/500_333.jpg",
+      "score": "6.5",
+      "id": "14"
+    },
+    {
+      "title": "Capitán América: Civil War",
+      "premiere": "2016",
+      "type": "pelicula",
+      "photo": "https://www.cinemascomics.com/wp-content/uploads/2016/03/Capit%C3%A1n-Am%C3%A9rica-Civil-War-poster.jpg",
+      "score": "5.6",
+      "id": "15"
+    },
+    {
+      "title": "Spiderman: Homecoming",
+      "premiere": "2017",
+      "type": "pelicula",
+      "photo": "https://idolosolvidados.com/wp-content/uploads/2022/02/es-ES.jpg",
+      "score": "7",
+      "id": "16"
+    },
+    {
+      "title": "Viuda Negra",
+      "premiere": "2021",
+      "type": "pelicula",
+      "photo": "https://lumiere-a.akamaihd.net/v1/images/image_09cd2a64.jpeg?region=0%2C0%2C540%2C810",
+      "score": "7.2",
+      "id": "17"
+    },
+    {
+      "title": "Black Panther",
+      "premiere": "2018",
+      "type": "pelicula",
+      "photo": "https://lumiere-a.akamaihd.net/v1/images/p_blackpanther_19754_4ac13f07.jpeg?region=0%2C0%2C540%2C810",
+      "score": "9",
+      "id": "18"
+    },
+    {
+      "title": "Doctor Strange",
+      "premiere": "2016",
+      "type": "pelicula",
+      "photo": "https://m.media-amazon.com/images/I/818x-d2qUuL._AC_SY741_.jpg",
+      "score": "8.7",
+      "id": "19"
+    },
+    {
+      "title": "Thor: Ragnarok",
+      "premiere": "2017",
+      "type": "pelicula",
+      "photo": "https://basededatos.atrae.org/media/works/rzRwTcFvttcN1ZpX2xv4j3tSdJu_BY8r9WR.jpg",
+      "score": "5.8",
+      "id": "20"
+    },
+    {
+      "title": "Ant-Man y la Avispa",
+      "premiere": "2018",
+      "type": "pelicula",
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/91Xvt+AZCnL.jpg",
+      "score": "6.7",
+      "id": "21"
+    },
+    {
+      "title": "Vengadores: Infinity War",
+      "premiere": "2018",
+      "type": "pelicula",
+      "photo": "https://lumiere-a.akamaihd.net/v1/images/image_91864e3f.jpeg",
+      "score": "9",
+      "id": "22"
+    },
+    {
+      "title": "Vengadores: Endgame",
+      "premiere": "2010",
+      "type": "pelicula",
+      "photo": "https://lumiere-a.akamaihd.net/v1/images/image_1e5c5703.jpeg?region=0%2C0%2C540%2C810",
+      "score": "9.5",
+      "id": "23"
+    },
+    {
+      "title": "Loki",
+      "premiere": "2021",
+      "type": "serie",
+      "photo": "https://elcomercio.pe/resizer/GVmsvUvB9CcPkl9ve1CMXnIn1IU=/980x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/PJK54BMEE5FAHEL7VDU7COIVIQ.jpg",
+      "score": "6.5",
+      "id": "24"
+    },
+    {
+      "title": "¿Qué pasaría si...?",
+      "premiere": "2021",
+      "type": "serie",
+      "photo": "https://www.themoviedb.org/t/p/w500/92bJ5Ja4oEoun9zFvAOMVtaNfrA.jpg",
+      "score": "5",
+      "id": "25"
+    },
+    {
+      "title": "Bruja Escarlata y Visión",
+      "premiere": "2021",
+      "type": "serie",
+      "photo": "https://sm.ign.com/ign_es/screenshot/default/nuevo-poster-bruja-escarlata-y-vision_t68q.jpg",
+      "score": "4.5",
+      "id": "26"
+    },
+    {
+      "title": "Falcon y el Soldado de Invierno",
+      "premiere": "2021",
+      "type": "serie",
+      "photo": "https://es.web.img3.acsta.net/pictures/21/03/30/10/53/1161480.jpg",
+      "score": "5.2",
+      "id": "27"
+    },
+    {
+      "title": "Shang-Chi y la leyenda de los diez anillos",
+      "premiere": "2021",
+      "type": "pelicula",
+      "photo": "https://lumiere-a.akamaihd.net/v1/images/image_2752f0d6.jpeg?region=0,0,540,810",
+      "score": "7.3",
+      "id": "28"
+    },
+    {
+      "title": "Eternals",
+      "premiere": "2021",
+      "type": "pelicula",
+      "photo": "https://lh3.googleusercontent.com/-2i2IwXLE2ek/YeEhs2Q80BI/AAAAAAAAQ30/pJ8sgCq9zx41zOf3SGf5QN9nZ90l_ZAXwCNcBGAsYHQ/s700/Eternals.jpg",
+      "score": "3.5",
+      "id": "29"
+    },
+    {
+      "title": "Spider-Man: Lejos de casa",
+      "premiere": "2019",
+      "type": "pelicula",
+      "photo": "https://img.ecartelera.com/noticias/fotos/54300/54373/1.jpg",
+      "score": "6.2",
+      "id": "30"
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "premiere": "2021",
+      "type": "pelicula",
+      "photo": "https://es.web.img2.acsta.net/pictures/21/12/01/12/07/0243323.jpg",
+      "score": "4.5",
+      "id": "31"
+    },
+    {
+      "title": "Ojo de Halcón",
+      "premiere": "2021",
+      "type": "serie",
+      "photo": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/ojo-halcon-poster-2511547.jpg?itok=3V3yJwB8",
+      "score": "7",
+      "id": "32"
+    },
+    {
+      "title": "Caballero luna",
+      "premiere": "2022",
+      "type": "serie",
+      "photo": "https://es.web.img2.acsta.net/pictures/22/05/07/16/21/4054142.jpg",
+      "score": "9.7",
+      "id": "33"
+    },
+    {
+      "title": "Doctor Strange en el multiverso de la locura",
+      "premiere": "2022",
+      "type": "pelicula",
+      "photo": "https://lumiere-a.akamaihd.net/v1/images/image_451523ce.jpeg",
+      "score": "8.5",
+      "id": "34"
+    },
+    {
+      "title": "Thor: Love and thunder",
+      "premiere": "2022",
+      "type": "pelicula",
+      "photo": "https://pbs.twimg.com/media/FVJLNM3WYAACuW1?format=jpg&name=large",
+      "score": "7.5",
+      "id": "Kf1YMDz"
+    }
+  ]
+}

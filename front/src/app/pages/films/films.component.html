@@ -1,0 +1,14 @@
+<section>
+  <h2>Orden cronológico de los sucesos y la historia</h2>
+  <div>
+    <figure *ngFor="let film of filmList">
+      <h1>{{ film.title }}</h1>
+      <p>{{ film.premiere }}</p>
+      <p>Tipo: {{ film.type }}</p>
+      <p>⭐ {{ film.score }}</p>
+
+      <img src="{{ film.photo }}" alt="{{ film.title }}" />
+      <button (click)="editFilm(film)">Editar</button>
+    </figure>
+  </div>
+</section>

@@ -1,0 +1,13 @@
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    text-align: center;
+    padding: 100px;
+}
+
+img {
+    margin-top: 100px;
+}

@@ -1,0 +1,38 @@
+<section>
+  <h2>Añade o edita la película o serie de Marvel:</h2>
+  <form novalidate [formGroup]="filmForm" (ngSubmit)="onSubmit()">
+    <div class="fila">
+      <label for="title">Título</label>
+      <input type="text" id="title" formControlName="title" />
+    </div>
+
+    <div class="fila">
+      <label for="premiere">Estreno</label>
+      <input type="text" id="premiere" formControlName="premiere" />
+    </div>
+
+    <div class="fila">
+      <label for="type">Tipo</label>
+      <input type="text" id="type" formControlName="type" />
+    </div>
+
+    <div class="fila">
+      <label for="photo">Portada</label>
+      <input type="text" id="photo" formControlName="photo" />
+    </div>
+
+    <div class="fila">
+      <label for="title">Puntuación</label>
+      <input type="text" id="score" formControlName="score" />
+    </div>
+
+    <div class="fila-center">
+      <button class="btn-enviar" [disabled]="!filmForm.valid" type="submit">
+        Enviar
+      </button>
+    </div>
+  </form>
+</section>
+<div>
+  <img src="../../../assets/gif marvel.gif" alt="gif marvel" />
+</div>
